@@ -1,0 +1,31 @@
+/* HTML ELEMENTS */
+body {
+    background-color: #232323;
+}
+h1 {
+    color: white;
+}
+
+/* CLASSES */
+.square {
+    width: 30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+/* ID's */
+#container {
+    margin: 0 auto;
+    max-width: 600px;
+}
+#colorDisplay {
+    text-transform: uppercase;
+}
+#stripe {
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
